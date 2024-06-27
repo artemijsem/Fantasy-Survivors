@@ -1,4 +1,4 @@
-# Fantasy-Survivors
+# Fantasy Survivors
 Fantasy Survivors is an action game with a top-down view where the Player controls one 
 character trying to survive the waves of enemies. The game features a level-up mechanic where 
 upon getting enough XP crystals the Player can boost their stats to make it through the game. 
